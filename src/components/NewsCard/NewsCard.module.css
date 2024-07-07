@@ -1,0 +1,28 @@
+.card
+{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    border-bottom: 10px solid white;
+
+    
+}
+.details
+{
+    display: flex;
+    margin: 20px;
+    justify-content: space-between;
+}
+.cardActions
+{    
+    padding: 0 16px 8px 16px;
+    display: flex;
+    justify-content: space-between; 
+    
+   
+}
+.activeCard
+{
+    border-bottom: 10px solid #22289a;
+    
+}
